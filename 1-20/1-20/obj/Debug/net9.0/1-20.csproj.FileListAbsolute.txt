@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\1-20\1-20\bin\Debug\net9.0\1-20.exe
+C:\Users\Usuario\source\repos\1-20\1-20\bin\Debug\net9.0\1-20.deps.json
+C:\Users\Usuario\source\repos\1-20\1-20\bin\Debug\net9.0\1-20.runtimeconfig.json
+C:\Users\Usuario\source\repos\1-20\1-20\bin\Debug\net9.0\1-20.dll
+C:\Users\Usuario\source\repos\1-20\1-20\bin\Debug\net9.0\1-20.pdb
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.dll
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\refint\1-20.dll
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.pdb
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\1-20.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1-20\1-20\obj\Debug\net9.0\ref\1-20.dll
