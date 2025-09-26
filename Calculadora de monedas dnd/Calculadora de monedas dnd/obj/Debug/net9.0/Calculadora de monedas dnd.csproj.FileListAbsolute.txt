@@ -1,0 +1,14 @@
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\bin\Debug\net9.0\Calculadora de monedas dnd.exe
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\bin\Debug\net9.0\Calculadora de monedas dnd.deps.json
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\bin\Debug\net9.0\Calculadora de monedas dnd.runtimeconfig.json
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\bin\Debug\net9.0\Calculadora de monedas dnd.dll
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\bin\Debug\net9.0\Calculadora de monedas dnd.pdb
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.AssemblyInfoInputs.cache
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.AssemblyInfo.cs
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.csproj.CoreCompileInputs.cache
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.dll
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\refint\Calculadora de monedas dnd.dll
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.pdb
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\Calculadora de monedas dnd.genruntimeconfig.cache
+D:\Users\mipc\Desktop\Visual Studio Projects\Calculadora de monedas dnd\Calculadora de monedas dnd\obj\Debug\net9.0\ref\Calculadora de monedas dnd.dll
