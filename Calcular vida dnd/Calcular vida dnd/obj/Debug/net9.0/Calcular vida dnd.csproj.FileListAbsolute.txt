@@ -1,0 +1,14 @@
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\bin\Debug\net9.0\Calcular vida dnd.exe
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\bin\Debug\net9.0\Calcular vida dnd.deps.json
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\bin\Debug\net9.0\Calcular vida dnd.runtimeconfig.json
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\bin\Debug\net9.0\Calcular vida dnd.dll
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\bin\Debug\net9.0\Calcular vida dnd.pdb
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.AssemblyInfoInputs.cache
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.AssemblyInfo.cs
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.csproj.CoreCompileInputs.cache
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.dll
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\refint\Calcular vida dnd.dll
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.pdb
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\Calcular vida dnd.genruntimeconfig.cache
+D:\Users\mipc\Desktop\Visual Studio Projects\Calcular vida dnd\Calcular vida dnd\obj\Debug\net9.0\ref\Calcular vida dnd.dll

@@ -1,0 +1,5 @@
+e:\Users\mipc\Desktop\Creador de vehículos.exe
+e:\Users\mipc\Desktop\Creador de vehículos.dll
+e:\Users\mipc\Desktop\Creador de vehículos.deps.json
+e:\Users\mipc\Desktop\Creador de vehículos.runtimeconfig.json
+e:\Users\mipc\Desktop\Creador de vehículos.pdb

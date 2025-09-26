@@ -1,0 +1,15 @@
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\bin\Release\net6.0\Creador de vehículos.exe
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\bin\Release\net6.0\Creador de vehículos.deps.json
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\bin\Release\net6.0\Creador de vehículos.runtimeconfig.json
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\bin\Release\net6.0\Creador de vehículos.dll
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\bin\Release\net6.0\Creador de vehículos.pdb
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.csproj.AssemblyReference.cache
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.AssemblyInfoInputs.cache
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.AssemblyInfo.cs
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.csproj.CoreCompileInputs.cache
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.dll
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\refint\Creador de vehículos.dll
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.pdb
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\Creador de vehículos.genruntimeconfig.cache
+E:\Users\mipc\Desktop\Cosas de insti\masterd\visual studio\Creador de vehículos\obj\Release\net6.0\ref\Creador de vehículos.dll

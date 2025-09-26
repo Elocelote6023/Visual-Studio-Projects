@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Creador de vehículos/1.0.0": {
+        "runtime": {
+          "Creador de vehículos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creador de vehículos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
